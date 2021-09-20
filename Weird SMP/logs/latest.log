@@ -1,0 +1,25 @@
+[02:41:36] [User Authenticator #5/INFO]: UUID of player .NerperJr is 00000000-0000-0000-0009-01f10a6574ab
+[02:41:36] [Server thread/INFO]: .NerperJr joined the game
+[02:41:36] [Server thread/INFO]: .NerperJr[/180.150.9.48:39620] logged in with entity id 3548 at ([world]122.29829, 75.0, -63.45302)
+[02:43:55] [Server thread/INFO]: .NerperJr lost connection: Disconnected
+[02:43:55] [Server thread/INFO]: .NerperJr left the game
+[13:16:09] [Server thread/INFO]: Stopping the server
+[13:16:09] [Server thread/INFO]: Stopping server
+[13:16:09] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v2.0.1
+[13:16:09] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.0.1
+[13:16:09] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.0.1
+[13:16:09] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[13:16:09] [Server thread/INFO]: [AdvancedPortals] Disabling AdvancedPortals v0.8.0
+[13:16:09] [Server thread/INFO]: Advanced portals are being disabled!
+[13:16:09] [Server thread/INFO]: Saving players
+[13:16:09] [Server thread/INFO]: Saving worlds
+[13:16:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:16:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:16:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:16:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:16:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:16:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:16:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:16:10] [Server thread/INFO]: Flushing Chunk IO
+[13:16:10] [Server thread/INFO]: Closing Thread Pool
+[13:16:10] [Server thread/INFO]: Closing Server

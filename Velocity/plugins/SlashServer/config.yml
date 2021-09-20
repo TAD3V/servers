@@ -1,0 +1,13 @@
+servers:
+-   server: lobby
+    commands:
+    - hub
+    - main
+-   server: smp
+    commands:
+    - survival
+    - play
+-   server: sf4
+    commands:
+    - skyfactory
+    - modded

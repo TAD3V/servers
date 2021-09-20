@@ -1,0 +1,56 @@
+[00:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[02:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[03:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[04:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[05:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[06:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[07:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[08:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[09:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[10:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[11:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[12:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[13:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[13:15:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[13:15:51] [Server thread/INFO] [AromaBackup]: No backup in progress. No server delay needed.
+[13:15:51] [Server thread/INFO] [Prestige]: Saving data for e2762d0b-b870-3a2a-ae83-238da6589ba4.
+[13:15:51] [Server thread/INFO] [Prestige]: Saving data for 7c74b4bb-dea1-4b0c-b778-c8faaf2fa386.
+[13:15:51] [Server thread/INFO] [Prestige]: Saving data for 4fc9c03d-49f3-4dc9-9b0f-111ea5a7fa75.
+[13:15:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[13:15:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[13:15:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[13:15:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM_MYST11'/0
+[13:15:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM-1'/-1
+[13:15:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM1'/1
+[13:15:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM2'/2
+[13:15:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM7'/7
+[13:15:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'LOST'/111
+[13:15:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM144'/144
+[13:15:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM28885'/28885
+[13:15:51] [Server thread/INFO] [Sponge]: Unloading world [DIM_MYST11] (topography:dim_0/0)
+[13:15:52] [Server thread/INFO] [Sponge]: Unloading world [DIM-1] (topography:dim_1/-1)
+[13:15:52] [Server thread/INFO] [Sponge]: Unloading world [DIM1] (minecraft:the_end/1)
+[13:15:52] [Server thread/INFO] [Sponge]: Unloading world [DIM2] (appliedenergistics2:storage_cell/2)
+[13:15:52] [Server thread/INFO] [Sponge]: Unloading world [DIM7] (twilightforest:twilight_forest/7)
+[13:15:52] [Server thread/INFO] [Sponge]: Unloading world [LOST] (lostcities:lostcities/111)
+[13:15:52] [Server thread/INFO] [Sponge]: Unloading world [DIM144] (compactmachines3:compactmachines/144)
+[13:15:52] [Server thread/INFO] [Sponge]: Unloading world [DIM28885] (huntingdim:hunting_dim/28885)
+[13:15:52] [Server thread/INFO] [FluxNetworks]: FluxNetworkData has been unloaded
+[13:15:52] [Server thread/INFO] [mcjtylib_ng]: Cleaning up all world data: 1 data blobs
+[13:15:52] [Server thread/INFO] [nuclearcraft]: Server Closing...
+[13:15:52] [Server thread/INFO] [Parabox]: Saving Parabox world data.
+[13:15:52] [Server thread/INFO] [practicallogistics2]: Cleared Server Info Handler
+[13:15:52] [Server thread/INFO] [practicallogistics2]: Cleared Network Handler
+[13:15:52] [Server thread/INFO] [practicallogistics2]: Cleared Data Factory
+[13:15:52] [Server thread/INFO] [practicallogistics2]: Cleared Wireless Data Manager
+[13:15:52] [Server thread/INFO] [practicallogistics2]: Cleared Wireless Redstone Manager
+[13:15:52] [Server thread/INFO] [practicallogistics2]: Cleared Cable Connection Handler
+[13:15:52] [Server thread/INFO] [practicallogistics2]: Cleared Redstone Connection Handler
+[13:15:52] [Server thread/INFO] [practicallogistics2]: Cleared Server Display Handler
+[13:15:52] [Server thread/INFO] [practicallogistics2]: Cleared Chunk Viewer Handler
+[13:15:52] [Server thread/INFO] [topography]: Cleaning up
+[13:15:52] [Server thread/INFO] [topography]: Unregistering Dimension 0
+[13:15:52] [Server thread/INFO] [topography]: Registering Dimension 0
+[13:15:52] [Server thread/INFO] [topography]: Unregistering Dimension -1
+[13:15:52] [Server thread/INFO] [topography]: Registering Dimension -1
+[13:15:52] [Server thread/INFO] [topography]: Done clean-up

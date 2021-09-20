@@ -1,0 +1,29 @@
+[02:41:05] [Network Listener - #6/INFO]: /180.150.9.48:49512 tried to connect!
+[02:41:06] [Network Listener - #6/INFO]: Player connected with username NerperJr
+[02:41:12] [Geyser player thread-4-6/INFO]: Attempting to login using floodgate mode... authentication will be encrypted.
+[02:41:12] [defaultEventLoopGroup-5-6/INFO]: NerperJr (logged in as: NerperJr) has connected to the Java server
+[02:41:14] [pool-8-thread-6/INFO]: Floodgate player who is logged in as .NerperJr 00000000-0000-0000-0009-01f10a6574ab joined
+[02:41:14] [Netty epoll Worker #0/INFO]: [connected player] .NerperJr (/180.150.9.48:0) has connected
+[02:41:14] [Geyser player thread-4-6/INFO]: Registering bedrock skin for .NerperJr (00000000-0000-0000-0009-01f10a6574ab)
+[02:41:14] [Netty epoll Worker #0/INFO]: [server connection] .NerperJr -> lobby has connected
+[02:41:14] [Geyser player thread-4-6/INFO]: Unable to load bedrock skin for '.NerperJr' as they are likely using a customised skin
+[02:41:34] [Netty epoll Worker #0/INFO]: [server connection] .NerperJr -> smp has connected
+[02:41:36] [Netty epoll Worker #0/INFO]: [server connection] .NerperJr -> lobby has disconnected
+[02:43:55] [Network Listener - #6/INFO]: Bedrock user with ip: /180.150.9.48 has disconnected for reason CLOSED_BY_REMOTE_PEER
+[02:43:55] [defaultEventLoopGroup-5-6/INFO]: NerperJr has disconnected from the Java server because of CLOSED_BY_REMOTE_PEER
+[02:43:55] [Netty epoll Worker #0/INFO]: Floodgate player logged in as NerperJr disconnected
+[02:43:55] [Netty epoll Worker #0/INFO]: [connected player] .NerperJr (/180.150.9.48:0) has disconnected
+[02:43:55] [Netty epoll Worker #0/INFO]: [server connection] .NerperJr -> smp has disconnected
+[07:50:20] [Netty epoll Worker #7/INFO]: [connected player] Gspt (/119.18.1.175:6678) has connected
+[07:50:20] [Netty epoll Worker #7/INFO]: [server connection] Gspt -> lobby has connected
+[07:50:50] [Netty epoll Worker #7/INFO]: [connected player] Gspt (/119.18.1.175:6678) has disconnected: An internal error occurred in your connection.
+[07:50:50] [Netty epoll Worker #7/ERROR]: [connected player] Gspt (/119.18.1.175:6678): read timed out
+[07:50:50] [Netty epoll Worker #7/INFO]: [server connection] Gspt -> lobby has disconnected
+[13:16:13] [Thread-306/INFO]: Shutting down the proxy...
+[13:16:13] [Thread-306/INFO]: Closing endpoint /0.0.0.0:25565
+[13:16:14] [Velocity Async Event Executor - #1/INFO]: Shutting down Geyser.
+[13:16:14] [Velocity Async Event Executor - #1/INFO]: Geyser shutdown successfully.
+[13:16:14] [Velocity Async Event Executor - #1/INFO]: Starting shutdown process...
+[13:16:14] [Velocity Async Event Executor - #1/INFO]: Closing storage...
+[13:16:14] [WebSocketConnectReadThread-5136/INFO]: The skin uploader has been closed
+[13:16:14] [Velocity Async Event Executor - #1/INFO]: Goodbye!

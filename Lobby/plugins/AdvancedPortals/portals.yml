@@ -1,0 +1,44 @@
+# 
+#  ExamplePortal:
+#    world: it will be the world name
+#    triggerblock: LAVA # will only be used if the hastriggerblock is true and can be id or text
+#    pos1: # dont mess with the data here, if you do it may stop the portal from working.
+#      X:
+#      Y:
+#      Z:
+#    pos2:
+#      X:
+#      Y:
+#      Z:
+#    destination:
+#      issetpoint: true # if this was false point name would not be used and the coordinates would be saved here, it just adds more customisation.
+#      pointname: examplepoint # if issetpoint is false this wont be here and tppos will be.
+#      tppos:
+#        X:
+#        Y:
+#        Z:
+
+smp:
+  world: world
+  triggerblock: NETHER_PORTAL
+  bungee: smp
+  pos1:
+    X: -1490
+    Y: 118
+    Z: 686
+  pos2:
+    X: -1490
+    Y: 108
+    Z: 680
+sf4:
+  world: world
+  triggerblock: NETHER_PORTAL
+  bungee: sf4
+  pos1:
+    X: -1520
+    Y: 117
+    Z: 716
+  pos2:
+    X: -1526
+    Y: 108
+    Z: 716
